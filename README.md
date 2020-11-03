@@ -1,3 +1,4 @@
 # SitePreview
 BetterDiscord plugin who allow inapp previsualisation
-![screen 1](./screen.png)
+![screen](./screen1.png)
+![screen](./screen.png)
